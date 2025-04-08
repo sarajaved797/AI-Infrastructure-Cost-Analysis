@@ -75,6 +75,23 @@ Shows how much of the base cost is being wasted in percentage terms.
 
 ├── energy_cost_analysis.xlsx # Core workbook with calculations and results ├── README.md # Project documentation
 
+---
+
+### 🚧 **Limitations**
+
+1. **Simplified Model**: The analysis assumes basic fixed costs and usage efficiency, without considering factors like maintenance or network latency.
+
+2. **Data Input**: Only fixed infrastructure costs are analyzed; variable costs like data transfer and scaling are not included.
+
+3. **Cost Justification Threshold**: The 70% usage threshold for "wasted" costs is arbitrary and may not apply to all use cases.
+
+4. **Limited Forecasting**: The model doesn’t include advanced forecasting methods for future demand or costs.
+
+### 📜 **Acknowledgements**
+
+- Built using Excel; focuses on cost justification and optimization.
+
+- Thanks to open-source tools and pricing calculators like AWS and Azure for cost structure insights.
 
 ---
 
