@@ -54,9 +54,9 @@ Shows how much of the base cost is being wasted in percentage terms.
 ## 🛠️ Tools Used
 
 - Microsoft Excel (Pivot Tables, Conditional Logic, Charts)
--
+
 -  Data Cleaning & Aggregation
-- 
+  
 - Manual Cost Simulation (based on usage thresholds)
 
 ---
